@@ -1,7 +1,6 @@
 import React from "react";
 import HeroSection from "../components/HeroSection";
 import Intro from "../components/Intro";
-import Service from "../components/Service";
 import styled from "styled-components";
 
 const Home = () => {

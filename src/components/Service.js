@@ -50,7 +50,8 @@ const Service = () => {
                         <div className="col-xs-12 col-sm-12 col-md-4">
                             <div className="service-col">
                                 <figure>
-                                    <img src="Images/Intro.jpg" className="img-fluid" width="300" alt="Intro image" />
+                                    <img src="Images/Intro.jpg" className="img-fluid" width="300" alt="Intro logo" />
+
                                 </figure>
                             </div>
                         </div>

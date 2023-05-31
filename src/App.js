@@ -7,7 +7,6 @@ import ErrorPage from "./pages/ErrorPage";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import ProjectsPage from "./pages/ProjectsPage";
-import styled from "styled-components";
 
 const App = () => {
   return(

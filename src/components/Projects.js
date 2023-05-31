@@ -27,7 +27,9 @@ const Projects = () => {
 
                     <div className="col-xs-12 col-sm-12 col-md-4">
                         <div className="card">
-                            <img className="img-fluid card-img" src="Images/todo.jpg" alt="ToDo Image"/>
+
+                            <img className="img-fluid card-img" src="Images/todo.jpg" alt="ToDo logo"/>
+
                                 <div className="card-body">
                                     <h5 className="card-title">ToDo List</h5>
                                     <p className="card-text">
@@ -95,7 +97,9 @@ const Projects = () => {
 
                     <div className="col-xs-12 col-sm-12 col-md-4">
                         <div className="card">
-                            <img className="img-fluid card-img" src="Images/vaccumCleaner.jpg" alt="Vaccum Cleaner Image"/>
+
+                            <img className="img-fluid card-img" src="Images/vaccumCleaner.jpg" alt="Vaccum Cleaner logo"/>
+
                                 <div className="card-body ">
                                     <h5 className="card-title">Automatic Vaccum Cleaner</h5>
                                     <p className="card-text ">

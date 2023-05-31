@@ -7,7 +7,8 @@ const Certifications = () => {
 
     const ShowCert = (src) => {
         console.log(show);
-        if(show == true) {
+
+        if(show === true) {
             
             document.querySelector('.popup-Img').style.visibility = 'hidden';
             setShow(false);
@@ -107,7 +108,7 @@ const Certifications = () => {
             
                 <div className="popup-Img" id="popup">
                     <span onClick={ShowCert}>&times;</span>
-                    <img className="Img1" src="Images/Certifications/CapstoneRetrievingProcessingAndVisualizing.jpg" />
+                    <img className="Img1" src="Images/Certifications/CapstoneRetrievingProcessingAndVisualizing.jpg" alt="Certificate"/>
                     
                 </div>
                   

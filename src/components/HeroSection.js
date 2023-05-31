@@ -22,7 +22,9 @@ const HeroSection = () => {
                     <div className="col-xs-12 col-sm-12 col-md-6">
                         <div className="hero-Img">
                             <figure >
-                                <img  src="Images/id_pic1.jpg" className="img-fluid" width="500px" alt="hero Image"/>
+
+                                <img  src="Images/id_pic1.jpg" className="img-fluid" width="500px" alt="hero "/>
+
                             </figure>
                         </div>    
                     </div>
